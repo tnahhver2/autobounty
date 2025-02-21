@@ -1,2 +1,0 @@
-# autobounty
-Autobounty hub 
